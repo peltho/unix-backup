@@ -7,5 +7,6 @@
 /media/*
 /lost+found
 /var/cache/pacman/pkg/*
+/var/cache/*
 /var/log/*
 /boot/.Spotlight*
