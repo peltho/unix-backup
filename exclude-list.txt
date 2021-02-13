@@ -13,3 +13,4 @@
 /home/*/.cache/*
 /home/*/{dev|www}/*/node_modules/*
 /home/*/Downloads/*
+/etc/fstab
